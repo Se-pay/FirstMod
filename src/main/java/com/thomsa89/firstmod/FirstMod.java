@@ -1,8 +1,11 @@
 package com.thomsa89.firstmod;
 
 import com.thomsa89.firstmod.handler.ConfigurationHandler;
+import com.thomsa89.firstmod.init.ModItems;
 import com.thomsa89.firstmod.proxy.IProxy;
 import com.thomsa89.firstmod.reference.Reference;
+import com.thomsa89.firstmod.utility.LogHelper;
+import net.minecraftforge.fml.common.FMLCommonHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -24,6 +27,10 @@ public class FirstMod {
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+        LogHelper.info("Pre Initialization Complete!");
+
+        ModItems.init();
     }
 
     /**
@@ -33,6 +40,7 @@ public class FirstMod {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
 
+        LogHelper.info("Initialization Complete!");
     }
 
     /**
@@ -42,5 +50,6 @@ public class FirstMod {
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {
 
+        LogHelper.info("Post Initialization Complete!");
     }
 }

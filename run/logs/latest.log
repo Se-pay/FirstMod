@@ -1,40 +1,40 @@
-[21:21:44] [main/INFO]: Extra: []
-[21:21:44] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Thomas/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken{REDACTED}, --version, 1.8.9, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[21:21:44] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[21:21:44] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[21:21:44] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[21:21:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[21:21:44] [main/INFO]: Forge Mod Loader version 11.15.0.1707 for Minecraft 1.8.9 loading
-[21:21:44] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_66\jre
-[21:21:44] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[21:21:44] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[21:21:44] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
-[21:21:44] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[21:21:44] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:21:44] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:21:44] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[21:21:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:21:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:21:44] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:21:44] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[21:21:46] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[21:21:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:21:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:21:46] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[21:21:46] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:21:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:21:46] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[21:21:48] [Client thread/INFO]: Setting user: Player379
-[21:21:52] [Client thread/INFO]: LWJGL Version: 2.9.4
-[21:21:53] [Client thread/WARN]: =============================================================
-[21:21:53] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[21:21:53] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
-[21:21:53] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
-[21:21:53] [Client thread/WARN]: =============================================================
-[21:21:53] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
-// My bad.
+[20:38:49] [main/INFO]: Extra: []
+[20:38:49] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Thomas/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken{REDACTED}, --version, 1.8.9, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[20:38:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:38:49] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:38:49] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[20:38:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:38:49] [main/INFO]: Forge Mod Loader version 11.15.0.1707 for Minecraft 1.8.9 loading
+[20:38:49] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_66\jre
+[20:38:49] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[20:38:49] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[20:38:49] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[20:38:49] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[20:38:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:38:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:38:49] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[20:38:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:38:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:38:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:38:49] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[20:38:51] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[20:38:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:38:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:38:51] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[20:38:51] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:38:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:38:51] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:38:53] [Client thread/INFO]: Setting user: Player374
+[20:38:56] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:38:57] [Client thread/WARN]: =============================================================
+[20:38:57] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:38:57] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[20:38:57] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[20:38:57] [Client thread/WARN]: =============================================================
+[20:38:57] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+// Quite honestly, I wouldn't worry myself about that.
 
-Time: 19.01.16 21:21
+Time: 20.01.16 20:38
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -49,52 +49,196 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_66, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 406653480 bytes (387 MB) / 638058496 bytes (608 MB) up to 3806855168 bytes (3630 MB)
+	Memory: 598630168 bytes (570 MB) / 877658112 bytes (837 MB) up to 3806855168 bytes (3630 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13416 Compatibility Profile Context 15.300.1025.1001' Renderer: 'AMD Radeon (TM) R9 390 Series'
-[21:21:53] [Client thread/INFO]: MinecraftForge v11.15.0.1707 Initialized
-[21:21:53] [Client thread/INFO]: Replaced 204 ore recipies
-[21:21:54] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[21:21:54] [Client thread/INFO]: Searching C:\Users\Thomas\Desktop\Minecraft Modding\1.8\FirstMod\run\mods for mods
-[21:21:56] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
-[21:21:56] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, firstmod] at CLIENT
-[21:21:56] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, firstmod] at SERVER
-[21:21:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
-[21:21:57] [Client thread/INFO]: Processing ObjectHolder annotations
-[21:21:57] [Client thread/INFO]: Found 384 ObjectHolder annotations
-[21:21:57] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[21:21:57] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[21:21:57] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[21:21:57] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[21:21:57] [Client thread/INFO]: Applying holder lookups
-[21:21:57] [Client thread/INFO]: Holder lookups applied
-[21:21:57] [Client thread/INFO]: Injecting itemstacks
-[21:21:57] [Client thread/INFO]: Itemstack injection complete
-[21:21:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:21:57] [Forge Version Check/INFO]: [Forge] Found status: BETA_OUTDATED Target: 11.15.0.1709
-[21:21:58] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[21:21:58] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:21:58] [Thread-9/INFO]: OpenAL initialized.
-[21:21:58] [Sound Library Loader/INFO]: Sound engine started
-[21:22:02] [Client thread/INFO]: Max texture size: 16384
-[21:22:02] [Client thread/INFO]: Created: 16x16 textures-atlas
-[21:22:03] [Client thread/INFO]: Injecting itemstacks
-[21:22:03] [Client thread/INFO]: Itemstack injection complete
-[21:22:03] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
-[21:22:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
-[21:22:03] [Client thread/INFO]: SoundSystem shutting down...
-[21:22:03] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[21:22:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:22:04] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[21:22:04] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:22:04] [Thread-11/INFO]: OpenAL initialized.
-[21:22:04] [Sound Library Loader/INFO]: Sound engine started
-[21:22:06] [Client thread/INFO]: Max texture size: 16384
-[21:22:06] [Client thread/INFO]: Created: 512x512 textures-atlas
-[21:22:08] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[21:22:26] [Client thread/INFO]: Stopping!
-[21:22:26] [Client thread/INFO]: SoundSystem shutting down...
-[21:22:27] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:38:57] [Client thread/INFO]: MinecraftForge v11.15.0.1707 Initialized
+[20:38:57] [Client thread/INFO]: Replaced 204 ore recipies
+[20:38:58] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:38:58] [Client thread/INFO]: Searching C:\Users\Thomas\Desktop\Minecraft Modding\1.8\FirstMod\run\mods for mods
+[20:39:00] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[20:39:01] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, firstmod] at CLIENT
+[20:39:01] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, firstmod] at SERVER
+[20:39:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[20:39:01] [Client thread/INFO]: Processing ObjectHolder annotations
+[20:39:01] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[20:39:01] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[20:39:01] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[20:39:01] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[20:39:01] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:39:01] [Client thread/INFO]: Pre Initialization Complete!
+[20:39:01] [Client thread/INFO]: Applying holder lookups
+[20:39:01] [Client thread/INFO]: Holder lookups applied
+[20:39:01] [Client thread/INFO]: Injecting itemstacks
+[20:39:01] [Client thread/INFO]: Itemstack injection complete
+[20:39:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:39:01] [Forge Version Check/INFO]: [Forge] Found status: BETA_OUTDATED Target: 11.15.0.1710
+[20:39:02] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[20:39:02] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:39:02] [Thread-9/INFO]: OpenAL initialized.
+[20:39:02] [Sound Library Loader/INFO]: Sound engine started
+[20:39:05] [Client thread/INFO]: Max texture size: 16384
+[20:39:05] [Client thread/INFO]: Created: 16x16 textures-atlas
+[20:39:05] [Client thread/ERROR]: Exception loading model for variant firstmod:Test#inventory
+java.lang.Exception: Could not load item model either from the normal location firstmod:item/Test or from the blockstate
+	at net.minecraftforge.client.model.ModelLoader.loadItems(ModelLoader.java:246) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:113) ~[ModelLoader.class:?]
+	at net.minecraft.client.resources.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:120) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:515) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:360) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:116) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_66]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_66]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_66]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_66]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_66]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_66]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_66]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_66]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_66]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_66]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_66]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_66]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model firstmod:blockstates/Test.json
+	at net.minecraft.client.resources.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:165) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItems(ModelLoader.java:242) ~[ModelLoader.class:?]
+	... 23 more
+Caused by: java.io.FileNotFoundException: firstmod:blockstates/Test.json
+	at net.minecraft.client.resources.FallbackResourceManager.getAllResources(FallbackResourceManager.java:93) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getAllResources(SimpleReloadableResourceManager.java:78) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.resources.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:143) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItems(ModelLoader.java:242) ~[ModelLoader.class:?]
+	... 23 more
+[20:39:06] [Client thread/INFO]: Initialization Complete!
+[20:39:06] [Client thread/INFO]: Injecting itemstacks
+[20:39:06] [Client thread/INFO]: Itemstack injection complete
+[20:39:06] [Client thread/INFO]: Post Initialization Complete!
+[20:39:06] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[20:39:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[20:39:06] [Client thread/INFO]: SoundSystem shutting down...
+[20:39:06] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:39:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:39:06] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[20:39:06] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:39:06] [Thread-11/INFO]: OpenAL initialized.
+[20:39:07] [Sound Library Loader/INFO]: Sound engine started
+[20:39:09] [Client thread/INFO]: Max texture size: 16384
+[20:39:09] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:39:09] [Client thread/ERROR]: Exception loading model for variant firstmod:Test#inventory
+java.lang.Exception: Could not load item model either from the normal location firstmod:item/Test or from the blockstate
+	at net.minecraftforge.client.model.ModelLoader.loadItems(ModelLoader.java:246) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:113) ~[ModelLoader.class:?]
+	at net.minecraft.client.resources.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.notifyReloadListeners(SimpleReloadableResourceManager.java:130) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.reloadResources(SimpleReloadableResourceManager.java:111) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.refreshResources(Minecraft.java:772) [Minecraft.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:323) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:532) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:360) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:116) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_66]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_66]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_66]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_66]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_66]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_66]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_66]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_66]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_66]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_66]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_66]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_66]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model firstmod:blockstates/Test.json
+	at net.minecraft.client.resources.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:165) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItems(ModelLoader.java:242) ~[ModelLoader.class:?]
+	... 26 more
+Caused by: java.io.FileNotFoundException: firstmod:blockstates/Test.json
+	at net.minecraft.client.resources.FallbackResourceManager.getAllResources(FallbackResourceManager.java:93) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getAllResources(SimpleReloadableResourceManager.java:78) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.resources.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:143) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItems(ModelLoader.java:242) ~[ModelLoader.class:?]
+	... 26 more
+[20:39:10] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:39:14] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:39:14] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[20:39:14] [Server thread/INFO]: Generating keypair
+[20:39:14] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[20:39:14] [Server thread/INFO]: Applying holder lookups
+[20:39:14] [Server thread/INFO]: Holder lookups applied
+[20:39:15] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@15ddddb4)
+[20:39:15] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@15ddddb4)
+[20:39:15] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@15ddddb4)
+[20:39:15] [Server thread/INFO]: Preparing start region for level 0
+[20:39:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:39:16] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:39:17] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[20:39:17] [Netty Server IO #1/INFO]: Client protocol version 2
+[20:39:17] [Netty Server IO #1/INFO]: Client attempting to join with 4 mods : FML@8.0.99.99,Forge@11.15.0.1707,mcp@9.18,firstmod@1.8.9-1.0
+[20:39:17] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[20:39:17] [Server thread/INFO]: [Server thread] Server side modded connection established
+[20:39:17] [Server thread/INFO]: Player374[local:E:aa06fd52] logged in with entity id 107 at (-843.9872834470485, 4.0, 573.5768943503941)
+[20:39:17] [Server thread/INFO]: Player374 joined the game
+[20:39:18] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@4376b8b2[id=80366950-5482-38de-842a-c4cdd5802ec2,name=Player374,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:59) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:56) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:165) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.func_181037_M(Minecraft.java:2915) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:130) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_66]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_66]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_66]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_66]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_66]
+[20:40:16] [Server thread/INFO]: Player374 fell out of the world
+[20:40:16] [Client thread/INFO]: [CHAT] Player374 fell out of the world
+[20:40:25] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:chainmail_chestplate, minecraft:tnt, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:snow, minecraft:birch_fence_gate, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, minecraft:hardened_clay, minecraft:bucket, minecraft:emerald, minecraft:leather_boots, minecraft:cobblestone_wall, minecraft:stained_glass, minecraft:stone_button, minecraft:iron_ingot, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, minecraft:rabbit, minecraft:activator_rail, minecraft:glass_bottle, minecraft:quartz_block, minecraft:redstone_lamp, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, minecraft:leather_helmet, minecraft:tallgrass, minecraft:record_far, minecraft:repeater, minecraft:ice, minecraft:nether_star, minecraft:brick_block, minecraft:dispenser, minecraft:record_wait, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, minecraft:beef, minecraft:firework_charge, minecraft:sugar, minecraft:stone, minecraft:soul_sand, minecraft:fireworks, minecraft:glass_pane, minecraft:mycelium, minecraft:bookshelf, minecraft:chicken, minecraft:light_weighted_pressure_plate, minecraft:diamond_leggings, minecraft:iron_door, minecraft:golden_horse_armor, minecraft:stained_hardened_clay, minecraft:quartz, minecraft:bedrock, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:ender_eye, minecraft:iron_boots, minecraft:writable_book, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, minecraft:hay_block, minecraft:comparator, minecraft:hopper, minecraft:torch, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, minecraft:banner, minecraft:command_block_minecart, minecraft:mutton, minecraft:carrot, minecraft:slime, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, minecraft:enchanting_table, minecraft:gold_ingot, minecraft:dropper, minecraft:potato, minecraft:melon_seeds, minecraft:coal, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, minecraft:fishing_rod, minecraft:chest_minecart, minecraft:blaze_powder, minecraft:chainmail_boots, minecraft:pumpkin_pie, minecraft:prismarine, minecraft:rotten_flesh, minecraft:enchanted_book, minecraft:cake, minecraft:iron_bars, minecraft:lapis_block, minecraft:cookie, minecraft:cooked_mutton, minecraft:cactus, minecraft:wool, minecraft:spruce_door, minecraft:rabbit_foot, minecraft:command_block, minecraft:end_stone, minecraft:golden_boots, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:record_13, minecraft:leather_chestplate, minecraft:milk_bucket, minecraft:record_stal, minecraft:saddle, minecraft:lava_bucket, minecraft:water_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:stonebrick, minecraft:potion, minecraft:red_mushroom, minecraft:redstone, minecraft:diamond_block, minecraft:iron_block, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, minecraft:diamond_ore, minecraft:reeds, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:experience_bottle, minecraft:coal_ore, minecraft:wooden_shovel, minecraft:spruce_stairs, minecraft:waterlily, minecraft:piston, minecraft:bow, minecraft:quartz_ore, minecraft:iron_hoe, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, minecraft:snowball, minecraft:daylight_detector, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, minecraft:lit_pumpkin, minecraft:barrier, minecraft:tnt_minecart, minecraft:spruce_fence_gate, minecraft:jungle_fence, minecraft:wooden_pressure_plate, minecraft:rabbit_stew, minecraft:map, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, minecraft:cooked_porkchop, minecraft:bowl, minecraft:detector_rail, minecraft:stone_slab2, minecraft:netherrack, minecraft:wooden_sword, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:beacon, minecraft:diamond_axe, minecraft:stone_pickaxe, minecraft:grass, minecraft:glowstone, minecraft:deadbush, minecraft:brick_stairs, minecraft:arrow, minecraft:red_mushroom_block, minecraft:golden_rail, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:jukebox, minecraft:spruce_fence, minecraft:birch_door, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:obsidian, minecraft:iron_shovel, minecraft:coal_block, minecraft:armor_stand, minecraft:gold_block, minecraft:feather, minecraft:monster_egg, minecraft:record_mellohi, minecraft:mob_spawner, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, minecraft:stone_brick_stairs, minecraft:redstone_block, minecraft:wooden_door, minecraft:oak_stairs, minecraft:yellow_flower, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, minecraft:written_book, minecraft:apple, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:mossy_cobblestone, minecraft:sticky_piston, minecraft:record_strad, minecraft:nether_brick_stairs, minecraft:leaves2, minecraft:end_portal_frame, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, minecraft:sea_lantern, minecraft:chainmail_helmet, minecraft:diamond, minecraft:prismarine_shard, minecraft:golden_apple, minecraft:carrot_on_a_stick, minecraft:shears, minecraft:carpet, minecraft:skull, minecraft:stone_shovel, minecraft:dirt, minecraft:emerald_ore, minecraft:planks, minecraft:trapped_chest, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, minecraft:leather_leggings, minecraft:golden_pickaxe, minecraft:diamond_sword, minecraft:iron_sword, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, minecraft:crafting_table, minecraft:clock, minecraft:nether_brick_fence, minecraft:iron_pickaxe, minecraft:blaze_rod, minecraft:golden_helmet, minecraft:birch_stairs, minecraft:sandstone, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, firstmod:Test, minecraft:ladder, minecraft:fire_charge, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, minecraft:noteblock, minecraft:stone_sword, minecraft:bed, minecraft:packed_ice, minecraft:mushroom_stew, minecraft:dye, minecraft:glowstone_dust, minecraft:lapis_ore, minecraft:iron_trapdoor, minecraft:chest, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:bone, minecraft:birch_fence, minecraft:hopper_minecart, minecraft:diamond_chestplate, minecraft:flint_and_steel, minecraft:wooden_hoe, minecraft:slime_ball, minecraft:wheat, minecraft:sign, minecraft:melon_block, minecraft:prismarine_crystals, minecraft:wooden_button, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:glass, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:web, minecraft:golden_sword, minecraft:stone_axe, minecraft:name_tag
+[20:40:30] [Server thread/INFO]: [Player374: Given [Test Item of Awesomeness] * 1 to Player374]
+[20:40:30] [Client thread/INFO]: [CHAT] Given [Test Item of Awesomeness] * 1 to Player374
+[20:40:37] [Server thread/INFO]: [Player374: Given [Test Item of Awesomeness] * 64 to Player374]
+[20:40:37] [Client thread/INFO]: [CHAT] Given [Test Item of Awesomeness] * 64 to Player374
+[20:40:41] [Server thread/INFO]: Player374 has just earned the achievement [Taking Inventory]
+[20:40:41] [Client thread/INFO]: [CHAT] Player374 has just earned the achievement [Taking Inventory]
+[20:41:04] [Server thread/INFO]: Saving and pausing game...
+[20:41:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:41:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:41:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:41:05] [Server thread/INFO]: Stopping server
+[20:41:05] [Server thread/INFO]: Saving players
+[20:41:05] [Server thread/INFO]: Saving worlds
+[20:41:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:41:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:41:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:41:05] [Server thread/INFO]: Unloading dimension 0
+[20:41:05] [Server thread/INFO]: Unloading dimension -1
+[20:41:05] [Server thread/INFO]: Unloading dimension 1
+[20:41:05] [Server thread/INFO]: Applying holder lookups
+[20:41:05] [Server thread/INFO]: Holder lookups applied
+[20:41:06] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:41:06] [Client thread/INFO]: Stopping!
+[20:41:06] [Client thread/INFO]: SoundSystem shutting down...
+[20:41:06] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
