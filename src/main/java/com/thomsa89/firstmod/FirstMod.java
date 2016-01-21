@@ -1,6 +1,7 @@
 package com.thomsa89.firstmod;
 
 import com.thomsa89.firstmod.handler.ConfigurationHandler;
+import com.thomsa89.firstmod.init.ModBlocks;
 import com.thomsa89.firstmod.init.ModItems;
 import com.thomsa89.firstmod.proxy.IProxy;
 import com.thomsa89.firstmod.reference.Reference;
@@ -31,6 +32,7 @@ public class FirstMod {
         LogHelper.info("Pre Initialization Complete!");
 
         ModItems.init();
+        ModBlocks.init();
     }
 
     /**

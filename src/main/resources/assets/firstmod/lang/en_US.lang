@@ -1,1 +1,3 @@
-item.firstmod:testItem.name=Test Item of Awesomeness
+item.firstmod:testItem.name=TestItem of Awesomeness
+
+tile.firstmod:testBlock.name=TestBlock of Awesomeness
